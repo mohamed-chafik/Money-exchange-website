@@ -1,8 +1,8 @@
-# PUPASSURE
+# Earoexchanger
 
-Welcome to **PUPASSURE**, a web application designed to help pet owners ensure their puppies receive the best care. This platform allows users to register their pets, upload photos, and provide essential information about their puppies.
+Welcome to **Earoexchanger**, a user-friendly website that provides exchange services for everyone. Whether you're looking to exchange currencies or other assets, Earoexchanger is here to facilitate your needs with ease and efficiency.
 
-![PUPASSURE Screenshot](https://github.com/mohamed-chafik/Money-exchange-website/blob/master/Earoexchanger-Home.png?raw=true)
+![Earoexchanger Screenshot](https://github.com/mohamed-chafik/Money-exchange-website/blob/master/Earoexchanger-Home.png?raw=true)
 
 ## Table of Contents
 
@@ -16,23 +16,23 @@ Welcome to **PUPASSURE**, a web application designed to help pet owners ensure t
 
 ## Features
 
-- User-friendly interface for pet registration.
-- Input fields for pet name, breed, birthday, gender, spayed/neutered status, and weight.
-- Photo upload feature to share your puppy's picture.
-- Responsive design that works on various devices.
+- **User-Friendly Interface**: Easy navigation for all users.
+- **Exchange Services**: Secure and reliable currency exchange options.
+- **Real-Time Rates**: Get the most updated exchange rates available.
+- **Responsive Design**: Optimized for use on desktops, tablets, and mobile devices.
 
 ## Technologies Used
 
 - **HTML** - Structure of the website
-- **CSS** - Styling using Sass for enhanced styles
-- **JavaScript** - For any interactivity (if applicable)
-- **Bootstrap** (optional) - For responsive design (if used)
-- **Font Awesome** - For icons
+- **CSS** - Styling using modern techniques
+- **JavaScript** - For interactivity and dynamic content
+- **Bootstrap** - For a responsive layout
+- **API Integration** - For real-time exchange rates (if applicable)
 
 ## Installation
 
-To get a local copy up and running, follow these simple steps:
+To get a local copy of the project up and running, follow these simple steps:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/pupassure.git
+   git clone https://github.com/mohamed-chafik/Money-exchange-website.git
