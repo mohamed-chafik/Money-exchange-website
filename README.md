@@ -1,6 +1,6 @@
 # Earoexchanger
 
-Welcome to **Earoexchanger**, a user-friendly website that provides exchange services for everyone. Whether you're looking to exchange currencies or other assets, Earoexchanger is here to facilitate your needs with ease and efficiency.
+Welcome to **Earoexchanger**, a user-friendly website that provides exchange services for everyone. Whether you're looking to exchange currencies or other assets.
 
 ![Earoexchanger Screenshot](https://github.com/mohamed-chafik/Money-exchange-website/blob/master/Earoexchanger-Home.png?raw=true)
 
